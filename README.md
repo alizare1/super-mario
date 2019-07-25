@@ -1,5 +1,5 @@
 # Super Mario
-This clone of Super Mario Bros was created as an asssignment for Advanced Programming course in University at Tehran.
+This clone of Super Mario Bros was created as an asssignment for Advanced Programming course at University of Tehran.
 
 It is written with [RSDL](https://github.com/UTAP/RSDL) (SDL2 Wrapper). Note that using inheritance and polymorphism was forbidden for this project, which made it a bit messy.
 
