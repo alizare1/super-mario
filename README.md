@@ -1,4 +1,7 @@
 # Super Mario
+<p align="center">
+  <img width="75%" height="75%" src="./image.png">
+</p>
 This clone of Super Mario Bros was created as an asssignment for Advanced Programming course at University of Tehran.
 
 It is written with [RSDL](https://github.com/UTAP/RSDL) (SDL2 Wrapper). Note that using inheritance and polymorphism was forbidden for this project, which made it a bit messy.
